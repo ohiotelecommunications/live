@@ -1,0 +1,12 @@
+.theme-payment-content-area .zpcontainer { display: -webkit-box; display: -moz-box; display: -ms-flexbox; display: -webkit-flex; display: flex; -webkit-flex-direction: column; -moz-flex-direction: column; -ms-flex-direction: column; -o-flex-direction: column; flex-direction: column; -webkit-align-items: center; -moz-align-items: center; -ms-align-items: center; -o-align-items: center; align-items: center; padding: 50px 15px; }
+.theme-payment-content-area .zpcontainer .theme-payment-success-indicator { display: -webkit-box; display: -moz-box; display: -ms-flexbox; display: -webkit-flex; display: flex; }
+.theme-payment-content-area .zpcontainer .theme-payment-success-indicator svg { width: 252px; height: 86px; }
+.theme-payment-content-area .zpcontainer .theme-payment-success-message { padding: 30px 0; }
+.theme-payment-content-area .zpcontainer .theme-payment-success-message h3 { text-align: center; }
+.theme-payment-content-area .zpcontainer .theme-payment-info { padding: 25px; display: -webkit-box; display: -moz-box; display: -ms-flexbox; display: -webkit-flex; display: flex; -webkit-flex-direction: column; -moz-flex-direction: column; -ms-flex-direction: column; -o-flex-direction: column; flex-direction: column; -webkit-align-items: center; -moz-align-items: center; -ms-align-items: center; -o-align-items: center; align-items: center; }
+@media all and (min-width: 768px) { .theme-payment-content-area .zpcontainer .theme-payment-info { min-width: 365px; } }
+.theme-payment-content-area .zpcontainer .theme-payment-info .theme-payment-info-list { -webkit-flex: 1 0 0px; -moz-flex: 1 0 0px; -ms-flex: 1 0 0px; -o-flex: 1 0 0px; flex: 1 0 0px; margin-bottom: 10px; }
+.theme-payment-content-area .zpcontainer .theme-payment-info .theme-payment-info-list:last-child { margin-bottom: 0; }
+.theme-payment-content-area .zpcontainer .theme-payment-info .theme-payment-info-list span { font-weight: bold; }
+.theme-payment-content-area .zpcontainer .theme-payment-thank-message { padding: 23px 0; }
+.theme-payment-content-area .zpcontainer .theme-payment-button a { border: none; }

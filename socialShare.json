@@ -1,0 +1,20 @@
+{
+	"networks" : [
+		{
+			"type" : "googleplus",
+			"name" : "Google Plus"
+		},
+		{
+			"type" : "facebook",
+			"name" : "Facebook"
+		},
+		{
+			"type" : "twitter",
+			"name" : "Twitter"
+		},
+		{
+			"type" : "pinterest",
+			"name" : "Pinterest"
+		}
+	]
+}
